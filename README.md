@@ -77,51 +77,6 @@ My goal is to become a highly skilled **SOC Analyst**, **Security Engineer**, an
 
 ---
 
-# 💼 Experience
-
-## 🏢 Research Analyst
-
-**Arcgate Technologies Pvt. Ltd.**
-
-- Worked on AI data annotation and quality analysis.
-- Collaborated with large-scale datasets.
-- Worked with Salesforce CRM.
-- Maintained high accuracy and data quality.
-
----
-
-## 🐍 Python Intern
-
-**InternPe Pvt. Ltd.**
-
-- Developed Python applications.
-- Built automation scripts.
-- Worked with APIs and file handling.
-- Improved problem-solving skills.
-
----
-
-## 🤖 AI Intern
-
-**CodSoft**
-
-- Built AI and Python mini-projects.
-- Worked on machine learning fundamentals.
-- Improved data preprocessing techniques.
-
----
-
-## 🔐 Cybersecurity & Networking Intern
-
-**Netparam Technologies Pvt. Ltd.**
-
-- Network Security
-- Vulnerability Assessment
-- Ethical Hacking Basics
-- Linux Administration
-- Security Testing
-
----
 
 # 🎯 Current Focus
 
@@ -475,16 +430,6 @@ My current goal is to become a highly skilled:
 
 # 📊 GitHub Dashboard
 
-<div align="center">
-
-## 📈 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank8092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank8092&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -505,15 +450,6 @@ My current goal is to become a highly skilled:
 
 </div>
 
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mayank8092&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</div>
 
 ---
 
@@ -540,34 +476,6 @@ My current goal is to become a highly skilled:
 
 <div align="center">
 
-## 📊 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank8092&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank8092&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank8092&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank8092&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank8092&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Repository Highlights
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Mayank8092&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -586,15 +494,6 @@ Once configured, use:
 
 </div>
 
----
-
-<div align="center">
-
-## 🚀 GitHub Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank8092&theme=github_dark"/>
-
-</div>
 
 ---
 
