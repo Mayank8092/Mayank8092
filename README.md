@@ -77,6 +77,52 @@ My goal is to become a highly skilled **SOC Analyst**, **Security Engineer**, an
 
 ---
 
+# 💼 Experience
+
+## 🏢 Research Analyst
+
+**Arcgate Technologies Pvt. Ltd.**
+
+- Worked on AI data annotation and quality analysis.
+- Collaborated with large-scale datasets.
+- Worked with Salesforce CRM.
+- Maintained high accuracy and data quality.
+
+---
+
+## 🐍 Python Intern
+
+**InternPe Pvt. Ltd.**
+
+- Developed Python applications.
+- Built automation scripts.
+- Worked with APIs and file handling.
+- Improved problem-solving skills.
+
+---
+
+## 🤖 AI Intern
+
+**CodSoft**
+
+- Built AI and Python mini-projects.
+- Worked on machine learning fundamentals.
+- Improved data preprocessing techniques.
+
+---
+
+## 🔐 Cybersecurity & Networking Intern
+
+**Netparam Technologies Pvt. Ltd.**
+
+- Network Security
+- Vulnerability Assessment
+- Ethical Hacking Basics
+- Linux Administration
+- Security Testing
+
+---
+
 # 🎯 Current Focus
 
 ```text
@@ -356,50 +402,6 @@ https://mayankraj-portfolio.web.app/
 
 ---
 
-# 💼 Professional Experience
-
-### 🔹 Research Analyst
-**Arcgate Technologies Pvt. Ltd.**
-
-- AI Data Annotation
-- Salesforce CRM
-- Quality Assurance
-- Data Analysis
-
----
-
-### 🔹 Python Intern
-
-InternPe Pvt. Ltd.
-
-- Python Development
-- Automation
-- APIs
-- File Handling
-
----
-
-### 🔹 AI Intern
-
-CodSoft
-
-- Machine Learning Basics
-- AI Projects
-- Python
-
----
-
-### 🔹 Cybersecurity & Networking Intern
-
-Netparam Technologies Pvt. Ltd.
-
-- Vulnerability Assessment
-- Linux Administration
-- Networking
-- Ethical Hacking
-
----
-
 # 🎯 Career Objective
 
 I'm passionate about solving cybersecurity challenges through practical solutions, automation, and continuous learning.
@@ -467,13 +469,19 @@ My current goal is to become a highly skilled:
 </div>
 
 ---
+<!-- =======================================================
+                GITHUB DASHBOARD
+======================================================= -->
+
 # 📊 GitHub Dashboard
 
 <div align="center">
 
-## 👀 Profile Views
+## 📈 GitHub Statistics
 
-<img src="https://komarev.com/ghpvc/?username=Mayank8092&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank8092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank8092&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -491,9 +499,9 @@ My current goal is to become a highly skilled:
 
 <div align="center">
 
-## 📅 Contribution Calendar
+## 📈 Contribution Graph
 
-<img src="https://ghchart.rshah.org/Mayank8092" alt="Contribution Calendar"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank8092&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -501,9 +509,62 @@ My current goal is to become a highly skilled:
 
 <div align="center">
 
-## 📈 Activity Graph
+## 🏆 GitHub Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank8092&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mayank8092&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=Mayank8092&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mayank8092/Mayank8092/main/github-metrics.svg" />
+</p>
+</div>
+
+---
+
+<div align="center">
+
+## 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank8092&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank8092&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank8092&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank8092&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank8092&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Repository Highlights
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Mayank8092&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </div>
 
@@ -513,11 +574,37 @@ My current goal is to become a highly skilled:
 
 ## 🐍 Contribution Snake
 
-> Configure the GitHub Action in Part 5, then use:
+> **This animation requires a GitHub Action.**
 
-<img src="https://raw.githubusercontent.com/Mayank8092/Mayank8092/output/github-contribution-grid-snake-dark.svg"/>
+After creating the README, add the workflow from:
+
+https://github.com/Platane/snk
+
+Once configured, use:
+
+<img src="https://raw.githubusercontent.com/Mayank8092/Mayank8092/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
+
+---
+
+<div align="center">
+
+## 🚀 GitHub Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank8092&theme=github_dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Keep Building • Keep Learning • Keep Securing
+
+</div>
+
+---
 <!-- =======================================================
                     CONTACT
 ======================================================= -->
