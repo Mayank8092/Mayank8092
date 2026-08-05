@@ -77,52 +77,6 @@ My goal is to become a highly skilled **SOC Analyst**, **Security Engineer**, an
 
 ---
 
-# 💼 Experience
-
-## 🏢 Research Analyst
-
-**Arcgate Technologies Pvt. Ltd.**
-
-- Worked on AI data annotation and quality analysis.
-- Collaborated with large-scale datasets.
-- Worked with Salesforce CRM.
-- Maintained high accuracy and data quality.
-
----
-
-## 🐍 Python Intern
-
-**InternPe Pvt. Ltd.**
-
-- Developed Python applications.
-- Built automation scripts.
-- Worked with APIs and file handling.
-- Improved problem-solving skills.
-
----
-
-## 🤖 AI Intern
-
-**CodSoft**
-
-- Built AI and Python mini-projects.
-- Worked on machine learning fundamentals.
-- Improved data preprocessing techniques.
-
----
-
-## 🔐 Cybersecurity & Networking Intern
-
-**Netparam Technologies Pvt. Ltd.**
-
-- Network Security
-- Vulnerability Assessment
-- Ethical Hacking Basics
-- Linux Administration
-- Security Testing
-
----
-
 # 🎯 Current Focus
 
 ```text
@@ -513,19 +467,13 @@ My current goal is to become a highly skilled:
 </div>
 
 ---
-<!-- =======================================================
-                GITHUB DASHBOARD
-======================================================= -->
-
 # 📊 GitHub Dashboard
 
 <div align="center">
 
-## 📈 GitHub Statistics
+## 👀 Profile Views
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank8092&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank8092&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=Mayank8092&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -543,19 +491,9 @@ My current goal is to become a highly skilled:
 
 <div align="center">
 
-## 📈 Contribution Graph
+## 📅 Contribution Calendar
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank8092&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mayank8092&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+<img src="https://ghchart.rshah.org/Mayank8092" alt="Contribution Calendar"/>
 
 </div>
 
@@ -563,51 +501,9 @@ My current goal is to become a highly skilled:
 
 <div align="center">
 
-## 👀 Profile Visitors
+## 📈 Activity Graph
 
-<img src="https://komarev.com/ghpvc/?username=Mayank8092&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📅 GitHub Contribution Calendar
-
-<img src="https://ghchart.rshah.org/00e5ff/Mayank8092" alt="Contribution Calendar"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank8092&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank8092&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank8092&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank8092&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank8092&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Repository Highlights
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Mayank8092&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank8092&theme=tokyo-night"/>
 
 </div>
 
@@ -617,37 +513,11 @@ My current goal is to become a highly skilled:
 
 ## 🐍 Contribution Snake
 
-> **This animation requires a GitHub Action.**
+> Configure the GitHub Action in Part 5, then use:
 
-After creating the README, add the workflow from:
-
-https://github.com/Platane/snk
-
-Once configured, use:
-
-<img src="https://raw.githubusercontent.com/Mayank8092/Mayank8092/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/Mayank8092/Mayank8092/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
-
-<div align="center">
-
-## 🚀 GitHub Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank8092&theme=github_dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Keep Building • Keep Learning • Keep Securing
-
-</div>
-
----
 <!-- =======================================================
                     CONTACT
 ======================================================= -->
