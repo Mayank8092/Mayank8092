@@ -1,92 +1,52 @@
-# 👋 Hi, I'm Mayank Raj
+👋 Hi, I'm Mayank Raj
 
-> 🔐 **Cybersecurity Enthusiast \| Python Developer \| AI & Automation
-> Learner**
-
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Python+Developer;SOC+Analyst+Learner;Ethical+Hacker;AI+Automation+Explorer"/>`{=html}
-```{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Python+Developer;SOC+Analyst+Learner;AI+%26+Automation+Explorer"/>
 </p>
-```
-## 🚀 About Me
 
--   🔐 Cybersecurity enthusiast focused on SOC, VAPT and automation.
--   🐍 Python developer.
--   🤖 Interested in AI automation.
--   🌱 Currently learning SIEM, Threat Hunting, Docker, Kubernetes and
-    Cloud Security.
+🌐 Socials
 
-## 🌐 Socials
+<p>
+<a href="https://github.com/Mayank8092"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/></a>
+<a href="https://www.linkedin.com/in/mayank-raj11"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/></a>
+<a href="https://x.com/MayankRaj197560"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32"/></a>
+<a href="https://www.threads.net/@mayank_sinha.a"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32"/></a>
+<a href="http://www.medium.com/Mayankklg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32"/></a>
+<a href="https://mayankraj-portfolio.web.app/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32"/></a>
+</p>
 
--   GitHub: https://github.com/Mayank8092
--   LinkedIn: https://www.linkedin.com/in/mayank-raj11
--   X: https://x.com/MayankRaj197560
--   Medium: http://www.medium.com/Mayankklg
--   Threads: https://www.threads.net/@mayank_sinha.a
--   Portfolio: https://mayankraj-portfolio.web.app/
+💻 Core Programming
 
-## 💻 Skills
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/>
+</p>
 
-### Core Programming
+📜 Scripting
 
-C • C++ • Java • Python
+<p><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="40"/></p>
 
-### Scripting & Automation
+🌐 Web
 
-Python • Bash
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/>
+</p>
 
-### Web Technologies
+🔐 Cybersecurity Tools
 
-HTML5 • CSS3 • JavaScript • React • Next.js
 
-### Cybersecurity
 
-Kali Linux • Burp Suite • Nmap • Wireshark • Metasploit • OWASP Top 10 •
-YARA • VirusTotal • Splunk
+🐧 Operating Systems
 
-### Operating Systems
 
-Linux • Ubuntu • Kali Linux • Windows
 
-### Cloud & DevOps
+☁️ Cloud & DevOps
 
-Firebase • Docker • Kubernetes • Google Cloud (Learning)
 
-### Databases
 
-Oracle SQL • MongoDB
+📊 GitHub Stats
 
-### Development Tools
-
-Git • GitHub • VS Code
-
-## 📂 Featured Projects
-
--   Hash-MalwareAnalysis
--   SQL_Vulnerability_Finder
--   HashFinder
-
-## 📊 GitHub Analytics
-
-Replace `Mayank8092` if your username changes.
-
-``` md
-![Stats](https://github-readme-stats.vercel.app/api?username=Mayank8092&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank8092&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank8092&theme=tokyonight)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mayank8092&theme=tokyonight&row=1&column=7)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayank8092&theme=tokyo-night)
-```
-
-## 🏆 Certifications
-
--   Cisco Introduction to Cyber Security
--   Core Java
--   Python Internship
--   AI Internship
--   Cybersecurity & Networking Internship
-
-> "Security isn't just about protecting systems---it's about building
-> trust through continuous learning and responsible innovation."
