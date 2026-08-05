@@ -480,20 +480,6 @@ My current goal is to become a highly skilled:
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-> **This animation requires a GitHub Action.**
-
-After creating the README, add the workflow from:
-
-https://github.com/Platane/snk
-
-Once configured, use:
-
-<img src="https://raw.githubusercontent.com/Mayank8092/Mayank8092/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
 
 ---
 
