@@ -250,13 +250,12 @@ My goal is to become a highly skilled **SOC Analyst**, **Security Engineer**, an
 
 <td width="50%">
 
-## 🔍 Hash-MalwareAnalysis
+## 🔍 MalwareIntel-System
 
-Python-based malware analysis toolkit for identifying suspicious files.
+MalwareScannerX is an advanced Python-based malware analysis and detection system.
 
 ### 🔹 Features
 
-- File Hashing (MD5, SHA1, SHA256)
 - Malware Detection
 - VirusTotal API Integration
 - YARA Rule Support
@@ -269,7 +268,7 @@ Python-based malware analysis toolkit for identifying suspicious files.
 
 **Repository**
 
-https://github.com/Mayank8092/Hash-MalwareAnalysis
+https://github.com/Mayank8092/MalwareIntel-System
 
 </td>
 
@@ -302,9 +301,9 @@ https://github.com/Mayank8092/SQL_Vulnerability_Finder
 
 <td>
 
-## 🔐 HashFinder
+## 🔐 Hash-MalwareAnalysis
 
-Utility for generating and identifying cryptographic hashes.
+Python-based malware analysis toolkit for identifying suspicious files.This Tool is made using python programming that gives hash of any file using MD5, sha256 and other Algorithms and vice versa and also convert text into encrypted text using algorithm .
 
 ### Features
 
@@ -315,7 +314,7 @@ Utility for generating and identifying cryptographic hashes.
 
 **Repository**
 
-https://github.com/Mayank8092/HashFinder
+https://github.com/Mayank8092/Hash-MalwareAnalysis
 
 </td>
 
