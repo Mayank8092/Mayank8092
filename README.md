@@ -443,14 +443,6 @@ My current goal is to become a highly skilled:
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank8092&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
----
 
 <div align="center">
 
@@ -460,22 +452,6 @@ My current goal is to become a highly skilled:
 
 </div>
 
----
-
-<div align="center">
-
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mayank8092/Mayank8092/main/github-metrics.svg" />
-</p>
-</div>
-
----
-
-<div align="center">
-
----
 
 <div align="center">
 
